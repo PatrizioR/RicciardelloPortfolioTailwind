@@ -73,6 +73,3 @@ packages/
 nuget.exe
 nuget.targets
 NuGet.config
-
-# CSS
-app.min.css

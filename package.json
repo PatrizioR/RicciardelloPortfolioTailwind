@@ -4,8 +4,8 @@
   "description": "Ricciardello Portfolio Page",
   "main": "index.js",
   "scripts": {
-    "build:css": "postcss wwwroot/css/app.css -o wwwroot/css/app.min.css",
-    "watch": "postcss wwwroot/css/app.css -o wwwroot/css/app.min.css --watch"
+    "build:css": "postcss app.css -o wwwroot/css/app.min.css",
+    "watch": "postcss css/app.css -o wwwroot/css/app.min.css --watch"
   },
   "author": "",
   "license": "ISC",
